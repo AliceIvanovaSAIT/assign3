@@ -75,6 +75,7 @@ h2{
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 footer a:hover, main a:hover{
